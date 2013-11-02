@@ -1,0 +1,57 @@
+
+1.Make set
+2.Find set
+3.Union sets
+4.Exit
+ Enter your choice(1-5):1
+
+ enter an element: 78
+
+1.Make set
+2.Find set
+3.Union sets
+4.Exit
+ Enter your choice(1-5):1
+
+ enter an element: 45
+
+1.Make set
+2.Find set
+3.Union sets
+4.Exit
+ Enter your choice(1-5):1
+
+ enter an element: 9
+
+1.Make set
+2.Find set
+3.Union sets
+4.Exit
+ Enter your choice(1-5):3
+
+ enter an element: 45
+
+ enter another element: 78
+
+1.Make set
+2.Find set
+3.Union sets
+4.Exit
+ Enter your choice(1-5):2
+
+ enter an element whose representative element is to be found:78
+Representative element of 78 is:78
+1.Make set
+2.Find set
+3.Union sets
+4.Exit
+ Enter your choice(1-5):2
+
+ enter an element whose representative element is to be found:45
+Representative element of 45 is:78
+1.Make set
+2.Find set
+3.Union sets
+4.Exit
+ Enter your choice(1-5):4
+Execution time: 0.00021

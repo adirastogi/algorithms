@@ -1,0 +1,55 @@
+
+1.Make set
+2.Find set
+3.Union sets
+4.Display the 2D array
+5.Exit
+ Enter ur choice(1-5):1
+
+ enter an element(1-15):5
+
+1.Make set
+2.Find set
+3.Union sets
+4.Display the 2D array
+5.Exit
+ Enter ur choice(1-5):1
+
+ enter an element(1-15):3
+
+1.Make set
+2.Find set
+3.Union sets
+4.Display the 2D array
+5.Exit
+ Enter ur choice(1-5):3
+
+ enter an element5
+
+ enter another element3
+
+1.Make set
+2.Find set
+3.Union sets
+4.Display the 2D array
+5.Exit
+ Enter ur choice(1-5):2
+
+ enter an element whose representative element is to be found(1-15):3
+Representative element of 3 is:5
+1.Make set
+2.Find set
+3.Union sets
+4.Display the 2D array
+5.Exit
+ Enter ur choice(1-5):4
+
+ 0 0 5 0 -3 0 0 0 0 0 0 0 0 0 0
+ 0 0 -2 0 3 0 0 0 0 0 0 0 0 0 0
+1.Make set
+2.Find set
+3.Union sets
+4.Display the 2D array
+5.Exit
+ Enter ur choice(1-5):5
+ Execution time : 0.00011

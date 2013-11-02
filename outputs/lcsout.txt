@@ -1,0 +1,12 @@
+Enter the length of X
+10
+Enter the length of Y
+8
+Enter sequence x
+aaddytrewb
+Enter sequence y
+hfaddyib
+Length of longest common subsequence is 5
+Execution time : 0.0089
+
+ 

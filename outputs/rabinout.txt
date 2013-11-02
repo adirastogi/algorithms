@@ -1,0 +1,6 @@
+Enter the text string
+My name is Khan and I am not a terrorist
+Enter pattern string
+Khan
+First match occurs at 11
+Execution Time : 0.00051

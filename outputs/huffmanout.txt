@@ -1,0 +1,17 @@
+Enter the number of alphabets
+6
+Enter the character frequencies for each of the alphabets
+5
+13
+12
+16
+45
+9
+The huffman codes are
+45:0
+12:100
+13:101
+5:1100
+9:1101
+16:111
+Execution time: 00.00042

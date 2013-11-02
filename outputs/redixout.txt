@@ -1,0 +1,10 @@
+enter no of elements:5
+enter max no. of digits for an element:3
+enter element 1:456
+enter element 2:789
+enter element 3:102
+enter element 4:639
+enter element 5:989
+the sorted array is:
+102 456 639 789 989 
+Execution time: 0.00011

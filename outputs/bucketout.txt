@@ -1,0 +1,13 @@
+enter size of array:
+5
+enter element 1:0.23
+enter element 2:0.78
+enter element 3:0.96
+enter element 4:0.25
+enter element 5:0.63
+
+original array is:
+0.230	0.250	0.780	0.630	0.960	
+ the sorted array is:
+0.230	0.250	0.630	0.780	0.960	 
+Execution time : 0.0002 

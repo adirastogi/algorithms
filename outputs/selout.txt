@@ -1,0 +1,26 @@
+Enter the number of elements(n)
+10
+Enter the elements in array
+78
+96
+48
+23
+15
+63
+46
+89
+33
+47
+The sorted array is
+15
+23
+33
+46
+47
+48
+63
+78
+89
+96
+Execution time : 0.0011
+ 

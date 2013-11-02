@@ -1,0 +1,23 @@
+Enter the values to be sorted
+5
+9
+15
+78
+63
+77
+23
+88
+10
+7
+The sorted values are
+5
+7
+9
+10
+15
+23
+63
+77
+78
+88
+Execution time : 0.0014
